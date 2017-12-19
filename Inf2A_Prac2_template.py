@@ -2,7 +2,6 @@
 # Template file for Informatics 2A Assignment 2:
 # 'A Natural Language Query System in Python/NLTK'
 
-# John Longley, November 2012, revised November 2013
 
 
 
